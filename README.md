@@ -1,5 +1,5 @@
-Engineer.Innovator.ML Enthusiast
---------------------------------
+Hi there 👋 I'm Sanjay
+=======================
 
 Self-taught developer passionate about building innovative solutions and learning new technologies. I specialize in web development and love turning ideas into reality through code.
 

@@ -6,7 +6,7 @@ Hi, I'm Sanjay. I hail from Luton. I have a background in Web Development, Finan
 * 🌍  I'm based in Luton, England
 * 🖥️  See my portfolio at [MyPortfolio](http://sanjayvjacob.vercel.app/)
 * ✉️  You can contact me at [sanjayvinodjacob@gmail.com](mailto:sanjayvinodjacob@gmail.com)
-* 🚀  I'm currently working on [E-commerce website](http://github.com/sanjayvjacob/UrbanAttire-react.git)
+* 🚀  I'm currently working on [UrbanAttire](http://github.com/sanjayvjacob/UrbanAttire-react.git)
 * 🧠  I'm learning TypeScript
 * ⚡  C++ was my first experience with programming
 
